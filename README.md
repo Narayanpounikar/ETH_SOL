@@ -24,6 +24,5 @@ Using remixIDE
 
 * ## AUTHORS
 NARAYAN POUNIKAR
-## License
-This project is licensed under the [NARAYAN POUNIKAR]  
+
    
